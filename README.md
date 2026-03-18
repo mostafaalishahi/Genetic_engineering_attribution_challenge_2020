@@ -39,5 +39,5 @@ The competition saw 1211 competitors and our proposed CNN model was **ranked 14*
 
 For more details, please contact:
 
- - Seyedmostafa Sheikhalishahi: mostafa.alishahi@gmail.com <br>
+ - Mostafa Sheikhalishahi: mostafa.alishahi@gmail.com <br>
  - Vevake Balaraman: vevake.balaraman@gmail.com
